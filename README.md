@@ -39,8 +39,8 @@
 - Необходимо исключить из синхронизации все директории, начинающиеся с точки (скрытые)
 - Необходимо сделать так, чтобы rsync подсчитывал хэш-суммы для всех файлов, даже если их время модификации и размер идентичны в источнике и приемнике.
 - На проверку направить скриншот с командой и результатом ее выполнения
-![Image alt]()
-![Image alt]()
+![Image alt](https://github.com/niko0la/Nikolay-3--rezerv-copy/blob/main/1-1.png)
+![Image alt](https://github.com/niko0la/Nikolay-3--rezerv-copy/blob/main/1-2.png)
 
 
 ### Задание 2
@@ -49,11 +49,11 @@
 - Резервная копия должна создаваться раз в день, в системном логе должна появляться запись об успешном или неуспешном выполнении операции
 - Резервная копия размещается локально, в директории `/tmp/backup`
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
-![Image alt]()
-![Image alt]()
-![Image alt]()
-![Image alt]()
-![Image alt]()
+![Image alt](https://github.com/niko0la/Nikolay-3--rezerv-copy/blob/main/2-1.png)
+![Image alt](https://github.com/niko0la/Nikolay-3--rezerv-copy/blob/main/2-3.png)
+![Image alt](https://github.com/niko0la/Nikolay-3--rezerv-copy/blob/main/2-3.png)
+![Image alt](https://github.com/niko0la/Nikolay-3--rezerv-copy/blob/main/2-4.png)
+![Image alt](https://github.com/niko0la/Nikolay-3--rezerv-copy/blob/main/2-5.png)
 
 ---
 
